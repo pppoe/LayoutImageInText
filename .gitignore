@@ -1,0 +1,6 @@
+build
+*.xcworkspace/
+xcuserdata/
+*-e
+hook.sh
+DerivedData/
